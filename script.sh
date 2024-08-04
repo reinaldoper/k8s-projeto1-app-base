@@ -1,3 +1,5 @@
+#!/bin/bash
+
 echo "Criando as imagens"
 
 docker build -t rei200201/projeto-backend:1.0 backend .
