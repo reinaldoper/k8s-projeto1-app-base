@@ -12,9 +12,9 @@ docker push rei200201/projeto-database:1.0
 
 echo "Criando serviçoc"
 
-kubctl apply -f services.yml
+kubectl apply -f services.yml
 
 
 echo "Criando os deployments"
 
-kubctl apply -f deployment.yml
+kubectl apply -f deployment.yml
