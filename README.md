@@ -1,4 +1,4 @@
-# Aqui está um exemplo de um arquivo README.md para o seu projeto Kubernetes, chamado my_kubernetes:
+
 
 # My Kubernetes
 
